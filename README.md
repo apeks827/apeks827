@@ -16,9 +16,9 @@ Fun fact: I can work two jobs, earn extra money and not burn out 😄
 package Stack
 
 myStack := map[string][]string{
-	languages: []string{"Python", "GoLang", "Bash"},
-	databases: []string{"PostgreSQL"},
-	deployment: []string{"Docker", "Git"},
-	other: []string{"HTML", "CSS", "ReactJS"}
+	languages: 	[]string{"Python", "GoLang", "Bash"},
+	databases: 	[]string{"PostgreSQL"},
+	deployment: 	[]string{"Docker", "Git"},
+	other: 		[]string{"HTML", "CSS", "ReactJS"}
 }
 ``` 
