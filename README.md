@@ -19,6 +19,6 @@ myStack := map[string][]string{
 	languages: []string{"Python", "GoLang", "Bash"},
 	databases: []string{"PostgreSQL"},
 	deployment: []string{"Docker", "Git"},
-	other: []string{"HTML", "CSS", "ReactJS"},
+	other: []string{"HTML", "CSS", "ReactJS"}
 }
 ``` 
