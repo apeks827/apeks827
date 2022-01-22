@@ -1,6 +1,6 @@
 ## Hey there ✋
 
-###About me
+### About me
 Hi, I'm Sergey, a Frontend Developer from Russia.
 
 You can DM me to telegram @apeks827 
@@ -11,7 +11,7 @@ Currently learn GoLang
 
 Fun fact: I can work two jobs and earn extra money and not burn out 😄
 
-###Current Stack
+### Current Stack
 ```
 package Stack
 
