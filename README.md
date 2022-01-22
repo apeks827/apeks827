@@ -9,7 +9,7 @@ I was mainly engaged in the design and layout of websites
 
 Currently learn GoLang 
 
-Fun fact: I can work two jobs and earn extra money and not burn out 😄
+Fun fact: I can work two jobs, earn extra money and not burn out 😄
 
 ### Current Stack
 ```
