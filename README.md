@@ -7,7 +7,7 @@ You can DM me to telegram @apeks827
 
 I was mainly engaged in the design and layout of websites 
 
-Currently learn GoLang 
+Currently learn Python 
 
 Fun fact: I can work two jobs, earn extra money and not burn out 😄
 
